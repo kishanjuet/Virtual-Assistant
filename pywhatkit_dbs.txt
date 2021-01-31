@@ -1,0 +1,106 @@
+--------------------
+Date: 5:12:2020
+Time: 22:28
+Phone number: +919598221049
+Message: Hello from GeeksforGeeks
+--------------------
+Date: 5:12:2020
+Time: 21:9
+Phone number: +919598221049
+Message: Hello from GeeksforGeeks
+--------------------
+Date: 5:12:2020
+Time: 21:12
+Phone number: +917521005666
+Message: automatically generated msg h bro chill kr
+--------------------
+Date: 5:12:2020
+Time: 21:27
+Phone number: +917521005666
+Message: automatically generated msg h bro chill kr
+--------------------
+Date: 5:12:2020
+Time: 21:46
+Phone number: +91959 822 1049
+Message: automatically generated msg h bro chill kr
+--------------------
+Date: 5:12:2020
+Time: 21:49
+Phone number: +91959 822 1049
+Message: automatically generated msg h bro chill kr
+--------------------
+Date: 5:12:2020
+Time: 21:52
+Phone number: +916268 811 789
+Message: automatically generated msg h bro chill kr
+--------------------
+Date: 5:12:2020
+Time: 21:53
+Phone number: +91626 8811 789
+Message: hosur yes
+--------------------
+Date: 5:12:2020
+Time: 22:2
+Phone number: +91959 822 1049
+Message: bhej do yaar
+--------------------
+Date: 5:12:2020
+Time: 22:4
+Phone number: +917521 005 666
+Message: hello pandey
+--------------------
+Date: 5:12:2020
+Time: 22:10
+Phone number: +917521 005 666
+Message: hello pandey ji
+--------------------
+Date: 5:12:2020
+Time: 22:12
+Phone number: +91626 8811 789
+Message: hello final try kar raha hun bhai
+--------------------
+Date: 8:12:2020
+Time: 2:2
+Phone number: +91Google Speech Recognition could not understand
+Message: Google Speech Recognition could not understand
+--------------------
+Date: 8:12:2020
+Time: 2:6
+Phone number: +91959 822 1049
+Message: hello testing around
+--------------------
+Date: 8:12:2020
+Time: 2:15
+Phone number: +919598221049
+Message: hell testing with QInputDialog box jhgshgdkjagsjkdkjsgkjdaskjfhdkjhuhksdnh fndjfh j
+--------------------
+Date: 8:12:2020
+Time: 2:18
+Phone number: +919598221049
+Message: asdfghjkl;ljhgfdsdfghjkl
+--------------------
+Date: 8:12:2020
+Time: 2:21
+Phone number: +91no query
+Message: no query
+--------------------
+Date: 8:12:2020
+Time: 2:31
+Phone number: +9198
+Message: helllllllllooooooooooo
+--------------------
+Date: 8:12:2020
+Time: 2:36
+Phone number: +919598221049
+Message: jhsgjzgjdshd
+--------------------
+Date: 8:12:2020
+Time: 2:39
+Phone number: +919598221049
+Message: lsdkjfhgfdhjskla;
+--------------------
+Date: 8:12:2020
+Time: 14:33
+Phone number: +918107029338
+Message: dsfghjklkljhgf
+--------------------
